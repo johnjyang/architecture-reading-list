@@ -1,1 +1,1 @@
-# architecture-reading-list
+# Architecture Readings with Notes and Highlights
